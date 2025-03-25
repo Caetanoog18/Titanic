@@ -1,4 +1,4 @@
-name: /home/gabriel-caetano/Desktop/Kaggle/titanic/venv
+name: env
 channels:
   - conda-forge
   - defaults
